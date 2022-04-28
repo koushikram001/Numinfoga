@@ -1,0 +1,4 @@
+colorama
+phonenumbers
+sys
+signal
